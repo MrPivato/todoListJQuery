@@ -1,0 +1,27 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "lista de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPivato/todoListJQuery.git"
+  },
+  "keywords": [
+    "todoList"
+  ],
+  "author": "MrPivato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPivato/todoListJQuery/issues"
+  },
+  "homepage": "https://github.com/MrPivato/todoListJQuery#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  }
+}
